@@ -1,0 +1,4 @@
+<testsuite name="default_suite_name" errors="0" failures="0" tests="2" time=".0160">
+<testcase name="Test_name_list_mod_suite.test_search_list_of_names"/>
+<testcase name="Test_name_list_mod_suite.test_search_list_of_names_fail"/>
+</testsuite>
